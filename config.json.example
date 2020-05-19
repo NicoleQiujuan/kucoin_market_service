@@ -1,0 +1,11 @@
+{
+  "api_key" : "",
+  "secret_key" : "",
+  "pass_phrase" : "",
+  "is_sandbox" : true,
+  "kucoin_symbol" : "",
+  "category" : "",
+  "interval" : 0.5,
+  "maker_number" : 20,
+  "taker_number" : 5
+}
